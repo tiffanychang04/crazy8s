@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Computer()
+comment0.text=\n\ Constructs\ a\ computer.\n
+comment1.params=eights\ prev
+comment1.target=Card\ play(CrazyEights,\ Card)
+comment1.text=\n\ Removes\ and\ returns\ a\ card\ from\ the\ computer's\ hand.\n\ \n\ @param\ eights\ the\ current\ crazy\ eights\ game\n\ @param\ prev\ the\ card\ on\ top\ of\ discard\ pile\n\ \n\ @return\ the\ card\ that\ the\ computer\ places\n
+comment2.params=prev
+comment2.target=Card\ searchForMatch(Card)
+comment2.text=\n\ Searches\ the\ player's\ hand\ for\ a\ matching\ card.\n\ \n\ @param\ prev\ the\ card\ on\ top\ of\ the\ discard\ pile\n\ \n\ @return\ a\ card\ from\ the\ computer's\ hand\ that\ can\ be\ played\n
+comment3.params=eights\ prev
+comment3.target=Card\ drawForMatch(CrazyEights,\ Card)
+comment3.text=\n\ Adds\ card\ from\ draw\ pile\ until\ a\ card\ is\ valid.\n\ \n\ @param\ eights\ the\ current\ crazy\ eights\ game\n\ @param\ prev\ the\ card\ on\ top\ of\ discard\ pile\n\ \n\ @return\ the\ card\ drawn\ that\ is\ valid\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HumanPlayer()
+comment0.text=\n\ Constructs\ a\ HumanPlayer\ object.\n
+comment1.params=cardNum
+comment1.target=void\ cardPressed(int)
+comment1.text=\n\ Takes\ input\ from\ click\ listener\ to\ make\ move.\n\ \n\ @param\ cardNum\ the\ position\ of\ the\ card\ in\ the\ player's\ hand\ based\ on\ location\ of\ mouse\ click\n
+comment2.params=
+comment2.target=void\ drawPressed()
+comment2.text=\n\ Adds\ card\ from\ draw\ pile\ to\ player's\ hand\ if\ location\ of\ click\ is\ within\ draw\ pile\ borders.\n
+comment3.params=eights\ prev1
+comment3.target=Card\ play(CrazyEights,\ Card)
+comment3.text=\n\ Plays\ a\ human's\ turn.\n\ \n\ @param\ eights\ the\ current\ crazy\ eights\ game\n\ @param\ prev1\ the\ top\ card\ of\ discard\ pile\n\ \n\ @return\ card\ the\ card\ being\ played\ by\ the\ player\n
+numComments=4

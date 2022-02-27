@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ drawPressed()
+comment0.text=\n\ Responses\ to\ a\ mouse\ click\ within\ the\ draw\ card.\n
+comment1.params=cardNum
+comment1.target=void\ cardPressed(int)
+comment1.text=\n\ Responses\ to\ a\ mouse\ click\ within\ one\ of\ the\ human\ player's\ cards.\n\ \n\ @param\ cardNum\ the\ position\ of\ the\ card\ in\ the\ player's\ hand\n
+numComments=2

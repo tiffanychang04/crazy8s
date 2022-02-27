@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment0.text=\n\ Constructs\ a\ player\ with\ an\ empty\ hand.\n
+comment1.params=
+comment1.target=Hand\ getHand()
+comment1.text=\n\ Retrieves\ the\ player's\ hand.\n\ \n\ @return\ the\ player's\ hand.\n
+comment2.params=cur\ prev
+comment2.target=boolean\ cardMatches(Card,\ Card)
+comment2.text=\n\ Checks\ whether\ a\ card\ can\ be\ played\ based\ on\ the\ previous\ card.\n\ \n\ @param\ cur\ the\ card\ that\ is\ being\ played\n\ @param\ prev\ the\ previous\ card\n\ \n\ @return\ whether\ the\ card\ can\ be\ played\n
+comment3.params=eights\ prev
+comment3.target=Card\ play(CrazyEights,\ Card)
+comment3.text=\n\ Plays\ one\ turn.\ Overriden\ in\ subclass.\n\ \n\ @param\ eights\ the\ current\ crazy\ eights\ game\n\ @param\ prev\ the\ card\ on\ top\ of\ draw\ pile\n\ \n\ @return\ the\ Card\ that\ the\ player\ plays\n
+numComments=4
